@@ -8,7 +8,6 @@ public class 신규아이디추천 {
 		Scanner input = new Scanner(System.in);
 		
 		String new_id = input.next();
-		
 		solution(new_id);
 	}
 	public static String solution(String new_id) {
