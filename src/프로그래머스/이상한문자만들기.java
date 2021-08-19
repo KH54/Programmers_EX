@@ -1,6 +1,5 @@
 package 프로그래머스;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class 이상한문자만들기 {
@@ -9,7 +8,7 @@ public class 이상한문자만들기 {
 
         System.out.println(solution(s));
     }
-
+//문자열 더하기 x, 반복문안에 변수 x, comment
     public static String solution(String s) {
         String answer = "";
 
@@ -33,4 +32,7 @@ public class 이상한문자만들기 {
         return answer;
     }
 
+    public static String solution2(String answer) {
+        return answer;
+    }
 }
