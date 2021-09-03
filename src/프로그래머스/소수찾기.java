@@ -9,15 +9,11 @@ public class 소수찾기 {
 
     public static int solution(int n) {
         int answer = 0;
+        int[] numbers = new int[n+1];
         
-        for(int i = 2 ; i <= n ; i ++) {
-         for(int j = 2; j <= i; j++) {
-            if(i%j  !=0 ) {
-                answer++;
-            }
-         }
+        for(int i =2; i <=n ; i++) numbers[i]=i;
         
-        }
+        
         return answer;
     }
 }
