@@ -1,7 +1,5 @@
 package 프로그래머스;
 
-import java.util.Arrays;
-
 public class 이상한문자만들기 {
     public static void main(String[] args) {
         String s = "try hello world";

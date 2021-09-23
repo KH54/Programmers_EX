@@ -1,5 +1,4 @@
 package 프로그래머스;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class 로또번호생성기 {

@@ -1,8 +1,6 @@
 package 프로그래머스;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class 자연수뒤집어배열로만들기 {
     public static void main(String[] args) {

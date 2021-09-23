@@ -1,6 +1,5 @@
 package 프로그래머스;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class 같은숫자는싫어요 {
     public static void main(String[] args) {

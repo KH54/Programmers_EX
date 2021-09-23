@@ -6,9 +6,9 @@ public class 신규아이디추천 {
 	public static void mian(String args[]) {
 		
 		Scanner input = new Scanner(System.in);
-		
 		String new_id = input.next();
 		solution(new_id);
+	    input.close();
 	}
 	public static String solution(String new_id) {
 		String answer = "";
@@ -40,6 +40,7 @@ public class 신규아이디추천 {
 		}
 		answer = new_id;
 		System.out.println(new_id);
+
 		return answer;
 	}
 }

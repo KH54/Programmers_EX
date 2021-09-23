@@ -9,7 +9,7 @@ public class 직사각형별찍기 {
         int b = sc.nextInt();
 
         star(a, b);
-
+        sc.close();
     }
 
     public static void star(int a, int b) {
