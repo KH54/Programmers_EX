@@ -1,33 +1,31 @@
 package 프로그래머스;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class 나누어떨어지는숫자 {
-	public static void main(String[] args) {
-		int[] arr = { 3, 2, 6 };
-		int divisor = 10;
+    public static void main(String[] args) {
+        int[] arr = { 5, 9, 7, 10 };
+        int divisor = 5;
 
-		solution(arr, divisor);
-	}
+        System.out.println(solution(arr, divisor));
+    }
 
-	public static int[] solution(int[] arr, int divisor) {
-		ArrayList<Integer> list = new ArrayList<Integer>();
+    public static List<Integer> solution(int[] arr, int divisor) {
+        List<Integer> answer = new ArrayList<>();
 
-		for (int i = 0; i < arr.length; i++) {
-			if ((arr[i]%divisor) == 0) {
-				list.add(arr[i]);
-			}
-			if(list.isEmpty()) {
-				list.add(-1);
-			}
-		}
-		int[] answer = new int[list.size()];
-		
-		for(int i = 0; i < answer.length; i++) {
-			answer[i] = list.get(i);
-		}
-		Arrays.sort(answer);
-		
-		return answer;
-	}
+        for (int num : arr) {
+            if (num % divisor == 0) {
+                answer.add(num);
+            }
+        }
+        Collections.sort(answer);
+
+        if (answer.stream().count() == 0) {
+            answer.add(-1);
+        }
+
+        return answer;
+    }
 }
