@@ -8,7 +8,7 @@ import java.util.List;
 public class ½ÇÆÐÀ² {
     public static void main(String[] args) {
         int N = 5;
-        int[] stages = { 2, 1, 2, 6, 2, 4, 3, 3 };
+        int[] stages = { 2, 0, 0, 0, 0, 0, 0, 0 };
         ;
         System.out.println(Arrays.toString(solution(N, stages)));
     }
