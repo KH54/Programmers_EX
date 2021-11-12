@@ -13,7 +13,7 @@ public class 숫자의표현 {
             int sum = 0;
             int plus = i;
             
-            while(sum<=n) {
+            while(sum<n) {
                 sum+=plus++;
             }
             if(sum==n) {
