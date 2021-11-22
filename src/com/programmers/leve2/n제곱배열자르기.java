@@ -2,7 +2,7 @@ package com.programmers.leve2;
 
 import java.util.Arrays;
 
-public class n제곱가장큰수 {
+public class n제곱배열자르기 {
 
     public static void main(String[] args) {
         int n = 3;
