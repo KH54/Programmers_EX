@@ -12,10 +12,10 @@ public class ÃÖ´ñ°ª°úÃÖ¼Ú°ª {
     public static String solution(String s) {
         String[] arrStr = s.split(" ");
         int[] arrInt = new int[arrStr.length];
-        int i=0;
-        for(String part : arrStr){
-          arrInt[i] = Integer.parseInt(part);
-          i++;
+        int i = 0;
+        for (String part : arrStr) {
+            arrInt[i] = Integer.parseInt(part);
+            i++;
         }
 
         StringBuffer sb = new StringBuffer();
@@ -24,23 +24,25 @@ public class ÃÖ´ñ°ª°úÃÖ¼Ú°ª {
         sb.append(Arrays.stream(arrInt).max().getAsInt());
 
         return sb.toString();
-        
-//        String answer = "";
-//
-//        String[] arr = s.split(" ");
-//
-//        List<Integer> list = new ArrayList<>();
-//
-//        int num = 0;
-//        for (String a : arr) {
-//            num = Integer.parseInt(a);
-//            list.add(num);
-//        }
-//        int max = list.stream().max(Integer::compare).orElse(-1);
-//        int min = list.stream().min(Integer::compare).orElse(-1);
-//
-//        answer = min + " " + max;
-//
-//        return answer;
+
     }
+//    public static String solution(String s) {
+//  String answer = "";
+//
+//  String[] arr = s.split(" ");
+//
+//  List<Integer> list = new ArrayList<>();
+//
+//  int num = 0;
+//  for (String a : arr) {
+//      num = Integer.parseInt(a);
+//      list.add(num);
+//  }
+//  int max = list.stream().max(Integer::compare).orElse(-1);
+//  int min = list.stream().min(Integer::compare).orElse(-1);
+//
+//  answer = min + " " + max;
+//
+//  return answer;
+//  }
 }

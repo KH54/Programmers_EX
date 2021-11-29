@@ -29,7 +29,6 @@ public class 소수찾기 {
                 answer++;
             }
         }
-
         return answer;
     }
 }
