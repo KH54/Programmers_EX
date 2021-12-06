@@ -2,7 +2,7 @@ package com.programmers.leve2;
 
 import java.util.Arrays;
 
-public class �ִ񰪰��ּڰ� {
+public class 최댓값과최솟값 {
     public static void main(String[] args) {
         String s = "-1 -2 -3 -4";
 

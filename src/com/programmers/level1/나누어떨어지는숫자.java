@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ³ª´©¾î¶³¾îÁö´Â¼ıÀÚ {
+public class ë‚˜ëˆ„ì–´ë–¨ì–´ì§€ëŠ”ìˆ«ì {
     public static void main(String[] args) {
         int[] arr = { 5, 9, 7, 10 };
         int divisor = 5;

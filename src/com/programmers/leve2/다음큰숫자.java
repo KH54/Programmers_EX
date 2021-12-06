@@ -1,6 +1,6 @@
 package com.programmers.leve2;
 
-public class ´ÙÀ½Å«¼ıÀÚ {
+public class ë‹¤ìŒí°ìˆ«ì {
     public static void main(String[] args) {
         int n = 78;
 

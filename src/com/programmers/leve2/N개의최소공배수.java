@@ -1,6 +1,6 @@
 package com.programmers.leve2;
 
-public class N°³ÀÇÃÖ¼Ò°ø¹è¼ö {
+public class Nê°œì˜ìµœì†Œê³µë°°ìˆ˜ {
     public static void main(String[] args) {
         int[] arr = { 2, 6, 8, 14 };
         System.out.println(solution(arr));

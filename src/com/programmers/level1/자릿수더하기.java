@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ÀÚ¸´¼ö´õÇÏ±â {
+public class ìë¦¿ìˆ˜ë”í•˜ê¸° {
     public static void main(String[] args) {
     int n = 1234;
     

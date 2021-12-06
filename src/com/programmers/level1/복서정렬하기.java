@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class º¹¼­Á¤·ÄÇÏ±â {
+public class ë³µì„œì •ë ¬í•˜ê¸° {
     public static void main(String[] args) {
 
         int[] weights = { 50, 82, 75, 120 };

@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 
-public class ÇÁ¸°ÅÍ {
+public class í”„ë¦°í„° {
     public static void main(String[] args) {
         int[] priorities = { 2, 1, 3, 2 };
         int location = 2;

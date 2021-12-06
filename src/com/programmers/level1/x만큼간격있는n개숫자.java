@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.Arrays;
 
-public class x¸¸Å­°£°İÀÖ´Ân°³¼ıÀÚ {
+public class xë§Œí¼ê°„ê²©ìˆëŠ”nê°œìˆ«ì {
     public static void main(String args[]) {
         int x = -4;
         int n = 2;

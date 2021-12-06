@@ -1,6 +1,6 @@
 package com.programmers.leve2;
 
-public class ½ºÅ³Æ®¸® {
+public class ìŠ¤í‚¬íŠ¸ë¦¬ {
 
     public static void main(String[] args) {
         String skill = "CBD";

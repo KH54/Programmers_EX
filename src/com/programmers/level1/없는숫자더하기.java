@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ¾ø´Â¼ıÀÚ´õÇÏ±â {
+public class ì—†ëŠ”ìˆ«ìë”í•˜ê¸° {
     public static void main(String[] args) {
         int[] numbers = { 1, 2, 3, 4, 6, 7, 8, 0 };
         

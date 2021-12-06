@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ÇÏ»þµå¼ö {
+public class í•˜ìƒ¤ë“œìˆ˜ {
     public static void main(String[] args) {
         int x = 10;
         System.out.println(solution(x));

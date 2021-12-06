@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.Arrays;
 
-public class Ã¼À°º¹ {
+public class ì²´ìœ¡ë³µ {
     public static void main(String[] args) {
         int n = 5;
         int[] lost = { 2, 4 };

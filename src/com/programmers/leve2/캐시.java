@@ -3,7 +3,7 @@ package com.programmers.leve2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ä³½Ã {
+public class ìºì‹œ {
 
     public static void main(String[] args) {
         int cacheSize = 3;

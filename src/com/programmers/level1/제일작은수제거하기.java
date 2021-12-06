@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Á¦ÀÏÀÛÀº¼öÁ¦°ÅÇÏ±â {
+public class ì œì¼ì‘ì€ìˆ˜ì œê±°í•˜ê¸° {
     public static void main(String[] args) {
         int[] arr = { 4, 3, 2, 1 };
 

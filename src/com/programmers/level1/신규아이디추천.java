@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.Scanner;
 
-public class ½Å±Ô¾ÆÀÌµğÃßÃµ {
+public class ì‹ ê·œì•„ì´ë””ì¶”ì²œ{
 	public static void mian(String args[]) {
 		
 		Scanner input = new Scanner(System.in);
@@ -13,18 +13,18 @@ public class ½Å±Ô¾ÆÀÌµğÃßÃµ {
 	public static String solution(String new_id) {
 		String answer = "";
 
-		new_id = new_id.toLowerCase(); // 1´Ü°è
-		new_id = new_id.replaceAll("[^0-9a-z-_.]", ""); // 2´Ü°è
-		new_id = new_id.replaceAll("[.]{2,}", "."); // 3´Ü°è
+		new_id = new_id.toLowerCase(); // 1ï¿½Ü°ï¿½
+		new_id = new_id.replaceAll("[^0-9a-z-_.]", ""); // 2ï¿½Ü°ï¿½
+		new_id = new_id.replaceAll("[.]{2,}", "."); // 3ï¿½Ü°ï¿½
 
 		if (new_id.startsWith(".") == true) {
-			new_id = new_id.substring(1); // 4´Ü°è
+			new_id = new_id.substring(1); // 4ï¿½Ü°ï¿½
 		}
 		if (new_id.endsWith(".") == true) {
-			new_id = new_id.substring(0, new_id.length() - 1); // 4´Ü°è
+			new_id = new_id.substring(0, new_id.length() - 1); // 4ï¿½Ü°ï¿½
 		}
 		if (new_id.equals("")) {
-			new_id = "a"; // 5´Ü°è
+			new_id = "a"; // 5ï¿½Ü°ï¿½
 		}
 		if (new_id.length() > 15) {
 			new_id = new_id.substring(0, 15);

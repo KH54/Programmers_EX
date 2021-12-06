@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ±è¼­¹æÃ£±â {
+public class ê¹€ì„œë°©ì°¾ê¸° {
 	public static void main(String args[]) {
 		String[] seoul = {"Jane", "Kim"};
 		
@@ -13,7 +13,7 @@ public class ±è¼­¹æÃ£±â {
 		
 		for(int i = 0; i <seoul.length; i++) {
 			if(seoul[i] == "Kim") {
-				answer = "±è¼­¹æÀº " + i +"¿¡ ÀÖ´Ù.";
+				answer = "ï¿½è¼­ï¿½ï¿½ï¿½ï¿½ " + i +"ï¿½ï¿½ ï¿½Ö´ï¿½.";
 			}
 		}
 		

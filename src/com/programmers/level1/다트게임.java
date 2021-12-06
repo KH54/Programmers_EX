@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.regex.Pattern;
 
-public class ´ÙÆ®°ÔÀÓ {
+public class ë‹¤íŠ¸ê²Œì„ {
 
     public static void main(String args[]) {
         String dartResult = "10D10T*10S";

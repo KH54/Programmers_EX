@@ -1,6 +1,6 @@
 package com.programmers.leve2;
 
-public class �ùٸ���ȣ {
+public class 올바른괄호 {
     public static void main(String[] args) {
         String s = ")()(";
 

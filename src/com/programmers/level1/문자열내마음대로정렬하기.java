@@ -6,7 +6,7 @@ package com.programmers.level1;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class ¹®ÀÚ¿­³»¸¶À½´ë·ÎÁ¤·ÄÇÏ±â {
+public class ë¬¸ìì—´ë‚´ë§ˆìŒëŒ€ë¡œì •ë ¬í•˜ê¸° {
 
     public static void main(String[] args) {
         String[] strings = { "sun", "bed", "car" };

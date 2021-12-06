@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.Arrays;
 
-public class Çà·ÄÀÇµ¡¼À {
+public class í–‰ë ¬ì˜ë§ì…ˆ {
     public static void main(String args[]) {
         int[][] arr1 = { { 1, 2 }, { 2, 3 } };
         int[][] arr2 = { { 3, 4 }, { 5, 6 } };

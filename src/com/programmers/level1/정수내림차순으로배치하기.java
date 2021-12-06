@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.Arrays;
 
-public class Á¤¼ö³»¸²Â÷¼øÀ¸·Î¹èÄ¡ÇÏ±â {
+public class ì •ìˆ˜ë‚´ë¦¼ì°¨ìˆœìœ¼ë¡œë°°ì¹˜í•˜ê¸° {
     public static void main(String[] args) {
         long n = 118372;
 

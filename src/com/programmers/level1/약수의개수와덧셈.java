@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ¾à¼öÀÇ°³¼ö¿Íµ¡¼À {
+public class ì•½ìˆ˜ì˜ê°œìˆ˜ì™€ë§ì…ˆ {
 
     public static void main(String[] args) {
         int left = 13;

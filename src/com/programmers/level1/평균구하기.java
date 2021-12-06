@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class Æò±Õ±¸ÇÏ±â {
+public class í‰ê· êµ¬í•˜ê¸° {
     public static void main(String[] args) {
         double[] arr = { 1, 2, 3, 4 };
 

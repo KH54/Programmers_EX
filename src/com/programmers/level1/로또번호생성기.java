@@ -1,7 +1,7 @@
 package com.programmers.level1;
 import java.util.Arrays;
 
-public class ·Î¶Ç¹øÈ£»ı¼º±â {
+public class ë¡œë˜ë²ˆí˜¸ìƒì„±ê¸° {
     public static void main(String args[]) {
        int Mynum[] = new int[6];
        int RanNum = 0;

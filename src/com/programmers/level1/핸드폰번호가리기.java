@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ÇÚµåÆù¹øÈ£°¡¸®±â {
+public class í•¸ë“œí°ë²ˆí˜¸ê°€ë¦¬ê¸° {
     public static void main(String[] args) {
         String phone_number = "01093407587";
         

@@ -1,12 +1,12 @@
 package com.programmers.level1;
 
-public class ÀÌ»óÇÑ¹®ÀÚ¸¸µé±â {
+public class ì´ìƒí•œë¬¸ìë§Œë“¤ê¸° {
     public static void main(String[] args) {
         String s = "try hello world";
 
         System.out.println(solution(s));
     }
-//¹®ÀÚ¿­ ´õÇÏ±â x, ¹İº¹¹®¾È¿¡ º¯¼ö x, comment
+//ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½Ï±ï¿½ x, ï¿½İºï¿½ï¿½ï¿½ï¿½È¿ï¿½ ï¿½ï¿½ï¿½ï¿½ x, comment
     public static String solution(String s) {
         String answer = "";
 

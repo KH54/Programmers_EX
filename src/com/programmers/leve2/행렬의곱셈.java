@@ -2,7 +2,7 @@ package com.programmers.leve2;
 
 import java.util.Arrays;
 
-public class Çà·ÄÀÇ°ö¼À {
+public class í–‰ë ¬ì˜ê³±ì…ˆ {
 
     public static void main(String[] args) {
 

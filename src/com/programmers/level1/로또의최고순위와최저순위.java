@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.Arrays;
 
-public class ·Î¶ÇÀÇÃÖ°í¼øÀ§¿ÍÃÖÀú¼øÀ§ {
+public class ë¡œë˜ì˜ìµœê³ ìˆœìœ„ì™€ìµœì €ìˆœìœ„ {
 
     public static void main(String[] args) {
         int[] lottos = { 0, 0, 0, 0, 0, 0 };

@@ -1,7 +1,7 @@
 package com.programmers.level1;
 import java.util.ArrayList;
 
-public class °°Àº¼ıÀÚ´Â½È¾î¿ä {
+public class ê°™ì€ìˆ«ìëŠ”ì‹«ì–´ìš” {
     public static void main(String[] args) {
         int[] arr = { 1, 1, 3, 3, 0, 1, 1 };
         solution(arr);

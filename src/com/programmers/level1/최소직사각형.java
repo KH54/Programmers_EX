@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ÃÖ¼ÒÁ÷»ç°¢Çü {
+public class ìµœì†Œì§ì‚¬ê°í˜• {
     public static void main(String[] args) {
         int[][] sizes = { { 60, 50 }, { 30, 70 }, { 60, 30 }, { 80, 40 } };
 

@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class ½ÃÀú¾ÏÈ£ {
+public class ì‹œì €ì•”í˜¸ {
     public static void main(String[] args) {
         String s = "AB";
         int n = 1;

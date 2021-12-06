@@ -1,6 +1,6 @@
 package com.programmers.leve2;
 
-public class JadenCase¹®ÀÚ¿­¸¸µé±â {
+public class JadenCaseë¬¸ìì—´ë§Œë“¤ê¸° {
 
     public static void main(String[] args) {
         String s = "3people unFollowed me";

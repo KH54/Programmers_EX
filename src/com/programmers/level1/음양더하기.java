@@ -1,6 +1,6 @@
 package com.programmers.level1;
 
-public class À½¾ç´õÇÏ±â {
+public class ìŒì–‘ë”í•˜ê¸° {
     public static void main(String[] args) {
         int[] absolutes = { 4, 7, 12 };
         boolean[] signs = { true, false, true };

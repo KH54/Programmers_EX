@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class ½ÇÆÐÀ² {
+public class ì‹¤íŒ¨ìœ¨ {
     public static void main(String[] args) {
         int N = 5;
         int[] stages = { 2, 0, 0, 0, 0, 0, 0, 0 };

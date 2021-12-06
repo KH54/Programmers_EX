@@ -2,7 +2,7 @@ package com.programmers.level1;
 
 import java.util.Arrays;
 
-public class ¼Ò¼ö¸¸µé±â {
+public class ì†Œìˆ˜ë§Œë“¤ê¸° {
 
     public static void main(String[] args) {
         int[] nums = { 1, 2, 7, 6, 4 };

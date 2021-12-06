@@ -3,7 +3,7 @@ package com.programmers.level1;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class ÆùÄÏ¸ó {
+public class í°ì¼“ëª¬ {
 	public static void main(String args[]) {
 		
 		int nums[] = {3,1,2,3};
