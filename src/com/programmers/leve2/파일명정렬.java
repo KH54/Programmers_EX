@@ -5,7 +5,7 @@ import java.util.Comparator;
 
 public class 파일명정렬 {
     public static void main(String[] args) {
-        String[] files = { "img12.png", "img10.png", "img02.png", "img1.png", "IMG01.GIF", "img2.JPG" };
+        String[] files = { "khk12.png", "img10.png", "img02.png", "img1.png", "IMG01.GIF", "img2.JPG" };
 
         System.out.println(Arrays.toString(solution((files))));
 
@@ -34,7 +34,7 @@ public class 파일명정렬 {
                 String number = "";
 
                 int index = 0;
-                
+
 //               head = info.replaceAll("[0-9]", "");
 //               number = info.replaceAll("[^0-9]", "");
 
